@@ -1,6 +1,6 @@
 module github.com/kingparks/cursor-vip
 
-go 1.22.0
+go 1.23
 
 require (
 	github.com/astaxie/beego v1.12.3
